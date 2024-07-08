@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="test1">
+    <file>.bgr_mo_daupng.png</file>
+  </qresource>
+</RCC>

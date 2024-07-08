@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="picture">
+    <file>.icon_nnhon.png</file>
+    <file>.bgr_4k.jpg</file>
+    <file>.icon_enter.png</file>
+    <file>htl_new.jpg</file>
+    <file>.image_math2.png</file>
+    <file>.icon_start.png</file>
+    <file>.icon_enter.png</file>
+    <file>.icon_input.png</file>
+    <file>.img_hvtslg.jpg</file>
+    <file>.img_cttslg.jpg</file>
+    <file>.icon_draw.png</file>
+    <file>.icon_dtb1.png</file>
+    <file>.icon_parabol.png</file>
+    <file>.bgr_math.jpg</file>
+    <file>.icon_back.png</file>
+  </qresource>
+</RCC>
